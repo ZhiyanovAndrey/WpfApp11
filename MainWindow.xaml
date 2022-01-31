@@ -12,7 +12,7 @@
                 <TransformGroup>
                     <ScaleTransform/>
                     <SkewTransform/>
-                    <RotateTransform Angle="-40.594"/>
+                    <RotateTransform Angle="-45"/>
                     <TranslateTransform/>
                 </TransformGroup>
             </Path.RenderTransform>
